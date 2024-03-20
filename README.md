@@ -1,1 +1,1 @@
-### This pdf contain the basic differece between crypto coin vs token.
+### This pdf contain the basic differece between crypto token vs coin.
